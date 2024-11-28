@@ -1,3 +1,16 @@
+What is express js?
+
+=> Express.js is a web application framework for Node.js, designed to make building web applications and APIs easier. 
+
+=> using Express, it simplifies routing, middleware, and error handling.
+
+what is routing? 
+=> The ability to define how the server responds to various HTTP requests (GET, POST, etc.).
+
+what is middleware?
+=> Functions that process requests before reaching the route handler.
+
+
 const express = require('express')
 // imported express js using require method
 
